@@ -1,4 +1,4 @@
-for i in range(2025):
+for i in range(20):
   print('Hello world')
 
 text = "Sonia Lackey"
