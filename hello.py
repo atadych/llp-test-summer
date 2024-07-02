@@ -1,3 +1,3 @@
-for i in range(20):
+for i in range(2025):
   print('Hello world')
   
